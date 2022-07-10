@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+}
+main {
+  margin: 30px 120px 30px 120px;
+}
+#page_name > h1 {
+  font-size: 2em;
+}
+#head {
+  display: flex;
+}
+#myprofile {
+  float: left;
+}
+#myprofile > img {
+  width: 150px;
+  height: 150px;
+}
+#head_list {
+  margin-left: 20px;
+  float: left;
+}
+#head_list ul {
+  padding-left: 0px;
+  list-style-type: none;
+}
+#name {
+  font-size: 1.7em;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
